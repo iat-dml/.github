@@ -1,4 +1,4 @@
-This is the organisation wide README for IAT Data and Modelling Infrastructure for Living Labs. 
+This is the organisation wide README for the Data and Modelling Infrastructure for Living Labs (DML) Service Working Group. DML is a group within the Innovation Center for Agreicultural System Transformation (IAT) as part of the Liebniz Center for Agricultural Landscape Research (ZALF).
 
 ## Contributors
 
