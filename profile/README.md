@@ -6,8 +6,10 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
 - 📄 **[Upcoming Workshop and Hackathon at iEMSs 2026](https://iat-dml.github.io/news/2025-06-iemss-workshop.html)** <sub>12 Jul 2026</sub>
 - 📄 **[DML Presents at IAT Kickoff Meeting](https://iat-dml.github.io/news/2025-01-iat-kickoff.html)** <sub>18 Mar 2026</sub>
 - 📄 **[DML at the FAIRagro Community Summit](https://iat-dml.github.io/news/2025-03-fairagro-summit.html)** <sub>05 Mar 2026</sub>
+- 📄 **[MonksHillLabs Initiative](https://iat-dml.github.io/projects/monkshilllabs.html)** <sub>15 Nov 2024</sub>
+- 📄 **[Living Lab Dashboards](https://iat-dml.github.io/projects/living-lab-dashboards.html)** <sub>01 Sep 2024</sub>
 
-<sub>Last updated: 2026-05-20 08:59 UTC</sub>
+<sub>Last updated: 2026-05-21 09:32 UTC</sub>
 <!-- NEWS-FEED:END -->
 
 ## 🔬 Projects
@@ -18,7 +20,7 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
 - 🔧 **[Living Lab Dashboards](https://iat-dml.github.io/projects/living-lab-dashboards.html)**
   The Living Lab Dashboards project develops interactive web-based tools for visualizing and exploring data from living lab experiments conducted across our re...
 
-<sub>Last updated: 2026-05-20 08:59 UTC</sub>
+<sub>Last updated: 2026-05-21 09:32 UTC</sub>
 <!-- PROJECTS-FEED:END -->
 
 ## Contributors
