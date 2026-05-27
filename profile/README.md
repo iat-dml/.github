@@ -9,7 +9,7 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
 - 📄 **[MonksHillLabs Initiative](https://iat-dml.github.io/projects/monkshilllabs.html)** <sub>15 Nov 2024</sub>
 - 📄 **[Living Lab Dashboards](https://iat-dml.github.io/projects/living-lab-dashboards.html)** <sub>01 Sep 2024</sub>
 
-<sub>Last updated: 2026-05-26 09:44 UTC</sub>
+<sub>Last updated: 2026-05-27 09:38 UTC</sub>
 <!-- NEWS-FEED:END -->
 
 ## 🔬 Projects
@@ -20,7 +20,7 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
 - 🔧 **[Living Lab Dashboards](https://iat-dml.github.io/projects/living-lab-dashboards.html)**
   The Living Lab Dashboards project develops interactive web-based tools for visualizing and exploring data from living lab experiments conducted across our re...
 
-<sub>Last updated: 2026-05-26 09:44 UTC</sub>
+<sub>Last updated: 2026-05-27 09:38 UTC</sub>
 <!-- PROJECTS-FEED:END -->
 
 ## Contributors
