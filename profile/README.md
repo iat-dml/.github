@@ -3,11 +3,11 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
 ## 📰 Latest News
 
 <!-- NEWS-FEED:START -->
-- 📄 **[Upcoming Workshop and Hackathon at iEMSs 2026](https://iat-dml.github.io/news/2025-06-iemss-workshop.html)** <sub>12 Jul 2026</sub>
-- 📄 **[DML Presents at IAT Kickoff Meeting](https://iat-dml.github.io/news/2025-01-iat-kickoff.html)** <sub>18 Mar 2026</sub>
-- 📄 **[DML at the FAIRagro Community Summit](https://iat-dml.github.io/news/2025-03-fairagro-summit.html)** <sub>05 Mar 2026</sub>
+- 📄 **[Upcoming Quarto Workshop at iEMSs 2026](https://iat-dml.github.io/news/2026-06-iemss-workshop.html)** <sub>12 Jul 2026</sub>
+- 📄 **[DML Presents at IAT Kickoff Meeting](https://iat-dml.github.io/news/2026-01-iat-kickoff.html)** <sub>18 Mar 2026</sub>
+- 📄 **[DML at the FAIRagro Community Summit](https://iat-dml.github.io/news/2026-03-fairagro-summit.html)** <sub>05 Mar 2026</sub>
 
-<sub>Last updated: 2026-06-23 09:30 UTC</sub>
+<sub>Last updated: 2026-06-24 08:59 UTC</sub>
 <!-- NEWS-FEED:END -->
 
 ## 🔬 Projects
@@ -16,7 +16,7 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
 - 🔧 **[MonksHillLabs Initiative](https://iat-dml.github.io/projects/monkshilllabs.html)**
   MonksHillLabs is a collaborative research platform that provides shared computational infrastructure, data repositories, and development environments for lan...
 
-<sub>Last updated: 2026-06-23 09:30 UTC</sub>
+<sub>Last updated: 2026-06-24 08:59 UTC</sub>
 <!-- PROJECTS-FEED:END -->
 
 ## Contributors
