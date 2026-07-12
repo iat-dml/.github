@@ -7,7 +7,7 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
 - 📄 **[DML Presents at IAT Kickoff Meeting](https://iat-dml.github.io/news/2026-01-iat-kickoff.html)** <sub>18 Mar 2026</sub>
 - 📄 **[DML at the FAIRagro Community Summit](https://iat-dml.github.io/news/2026-03-fairagro-summit.html)** <sub>05 Mar 2026</sub>
 
-<sub>Last updated: 2026-07-11 07:47 UTC</sub>
+<sub>Last updated: 2026-07-12 08:08 UTC</sub>
 <!-- NEWS-FEED:END -->
 
 ## 🔬 Projects
@@ -22,7 +22,7 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
 - 🔧 **[IAT ZALF Templates](https://iat-dml.github.io/projects/zalf-iat-templates.html)**
   This project delivered a collection of reusable document and presentation templates for the IAT working groups, covering both technical publishing pipelines...
 
-<sub>Last updated: 2026-07-11 07:47 UTC</sub>
+<sub>Last updated: 2026-07-12 08:08 UTC</sub>
 <!-- PROJECTS-FEED:END -->
 
 ## Contributors
