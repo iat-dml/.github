@@ -1,3 +1,15 @@
+<div align="center">
+
+<a href="https://iat-dml.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iat-dml/.github/main/profile/assets/dml-strata-lockup-deep-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iat-dml/.github/main/profile/assets/dml-strata-lockup-deep.svg">
+    <img alt="DML — Data and Modelling Infrastructure for Living Labs" src="https://raw.githubusercontent.com/iat-dml/.github/main/profile/assets/dml-strata-lockup-deep.svg" width="470">
+  </picture>
+</a>
+
+</div>
+
 This is the organisation wide README for the Data and Modelling Infrastructure for Living Labs (DML) Service Working Group. DML is a group within the Innovation Center for Agricultural System Transformation (IAT) at the Leibniz Centre for Agricultural Landscape Research (ZALF). For more information, visit our [website](https://iat-dml.github.io).
 
 ## 📰 Latest News
@@ -25,6 +37,14 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
 <sub>Last updated: 2026-07-22 08:20 UTC</sub>
 <!-- PROJECTS-FEED:END -->
 
+## ✉️ Get in Touch
+
+Have a request for the DML service team? There are three ways to reach us — no GitHub account required.
+
+- 📝 **[Request support via our contact form](https://iat-dml.github.io/contact-form.html)** — the quickest route for a new service request.
+- 📧 **[iat-dml@zalf.de](mailto:iat-dml@zalf.de)** — write to us directly; your mail is logged automatically in our tracking system.
+- 🐙 **[Open an issue in our service desk](https://github.com/iat-dml/service-desk/issues/new/choose)** — if you already have a GitHub account.
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -35,3 +55,15 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iat-dml/.github/main/profile/assets/footer-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iat-dml/.github/main/profile/assets/footer-light.png">
+  <img alt="Gefördert durch: Bundesministerium für Landwirtschaft, Ernährung und Heimat · Land Brandenburg · Hessen — Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V. · Universität Kassel · Justus-Liebig-Universität Gießen · Hochschule Geisenheim University" src="https://raw.githubusercontent.com/iat-dml/.github/main/profile/assets/footer-light.png" width="100%">
+</picture>
+
+</div>
