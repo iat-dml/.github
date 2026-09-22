@@ -20,12 +20,14 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
 - 📄 **[DML Presents at IAT Kickoff Meeting](https://iat-dml.github.io/news/2026-01-iat-kickoff.html)** <sub>18 Mar 2026</sub>
 - 📄 **[DML at the FAIRagro Community Summit](https://iat-dml.github.io/news/2026-03-fairagro-summit.html)** <sub>05 Mar 2026</sub>
 
-<sub>Last updated: 2026-09-21 11:48 UTC</sub>
+<sub>Last updated: 2026-09-22 10:50 UTC</sub>
 <!-- NEWS-FEED:END -->
 
 ## 🔬 Projects
 
 <!-- PROJECTS-FEED:START -->
+- 🔧 **[BirdNET-Passage](https://iat-dml.github.io/projects/birdnet-passage.html)**
+  NoteComing soon The BirdNET-Passage codebase is being prepared for its first versioned release, which we expect very soon. Until then, the code is not yet pu...
 - 🔧 **[Living Lab Workshop Maps](https://iat-dml.github.io/projects/living-labs-base-maps.html)**
   Living Lab workshops often need a simple question answered on paper: where? Where do stakeholders farm, where are water problems felt, where could a new meas...
 - 🔧 **[One Tool to Rule Them All: A Quarto Workshop](https://iat-dml.github.io/projects/quarto-workshop.html)**
@@ -34,10 +36,8 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
   The Living Lab Explorer is a work-in-progress project building upon factsheets prepared by the IAT Regional Network Managers to create interactive dashboards...
 - 🔧 **[A how-to guide for Policy Labs](https://iat-dml.github.io/projects/policy-lab-guide.html)**
   The Policy Lab Guide is a work-in-progress project to guide researchers and practitioners in the development of Policy Labs for Agri-environmental Measures w...
-- 🔧 **[MonksHillLab field ecophysiology handbook web version](https://iat-dml.github.io/projects/monkshilllabs.html)**
-  The MonksHillLab initiative — part of the Working Group Ecophysiology of Water and Matter Cycling at the Leibniz Centre for Agricultural Landscape Research (...
 
-<sub>Last updated: 2026-09-21 11:48 UTC</sub>
+<sub>Last updated: 2026-09-22 10:50 UTC</sub>
 <!-- PROJECTS-FEED:END -->
 
 ## ✉️ Get in Touch
