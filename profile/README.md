@@ -15,12 +15,13 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
 ## 📰 Latest News
 
 <!-- NEWS-FEED:START -->
+- 📄 **[DML Presents its Services at the IAT Statusseminar 2026](https://iat-dml.github.io/news/2026-09-iat-statusseminar.html)** <sub>24 Sep 2026</sub>
 - 📄 **[Upcoming Quarto Workshop at iEMSs 2026](https://iat-dml.github.io/news/2026-06-iemss-workshop.html)** <sub>12 Jul 2026</sub>
 - 📄 **[DML at Barcamp Open Science 2026](https://iat-dml.github.io/news/2026-06-barcamp-openscience.html)** <sub>10 Jun 2026</sub>
 - 📄 **[DML Presents at IAT Kickoff Meeting](https://iat-dml.github.io/news/2026-01-iat-kickoff.html)** <sub>18 Mar 2026</sub>
 - 📄 **[DML at the FAIRagro Community Summit](https://iat-dml.github.io/news/2026-03-fairagro-summit.html)** <sub>05 Mar 2026</sub>
 
-<sub>Last updated: 2026-11-04 13:40 UTC</sub>
+<sub>Last updated: 2026-11-05 13:53 UTC</sub>
 <!-- NEWS-FEED:END -->
 
 ## 🔬 Projects
@@ -37,7 +38,7 @@ This is the organisation wide README for the Data and Modelling Infrastructure f
 - 🔧 **[A how-to guide for Policy Labs](https://iat-dml.github.io/projects/policy-lab-guide.html)**
   The Policy Lab Guide is a work-in-progress project to guide researchers and practitioners in the development of Policy Labs for Agri-environmental Measures w...
 
-<sub>Last updated: 2026-11-04 13:40 UTC</sub>
+<sub>Last updated: 2026-11-05 13:53 UTC</sub>
 <!-- PROJECTS-FEED:END -->
 
 ## ✉️ Get in Touch
